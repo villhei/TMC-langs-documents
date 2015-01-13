@@ -8,6 +8,8 @@ PROJEKTIN MÄÄRITTELYT
 	- Koodit githubiin
 			- Kaksi repositorya
 				- Documents / ohtuprojekti
+					- https://github.com/zzats/TMC-langs-documents
+					- Tuntikirjanpito yms.https://github.com/zzats/TMC-langs-documents
 				- TMC-relevantti tavara
 
 Vaatimukset prosessilta / työmenetelmiltä
