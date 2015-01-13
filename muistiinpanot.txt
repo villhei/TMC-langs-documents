@@ -1,0 +1,69 @@
+PROJEKTIN MÄÄRITTELYT
+	- Tapaamiset torstaisin
+		- Klo 10:00 @ CK110
+		
+	- Irkkikanavana #tmc-langs
+		- Käytetään myös asiakaskommunikaatioon
+			
+	- Koodit githubiin
+			- Kaksi repositorya
+				- Documents / ohtuprojekti
+				- TMC-relevantti tavara
+
+Vaatimukset prosessilta / työmenetelmiltä
+
+	- OhtuScrummilla mennään
+		- Daily scrum
+			- Not gonna happen
+
+	- Rooleja:
+		- Scrum master
+			- Sovittu kiertäväksi
+		- Prosessisihteeri
+			- Sovittu kiertäväksi
+
+	- Viikkopalaverit
+		- Collaborative notepad tms / ts. Meeting notet
+		
+	- Asiakastapaamiset
+		- Meeting notet
+			- Agenda oltava olemassa ennen kokousta
+			- Päätökset, lupaukset, pyynnöt, toteamukset
+
+	- Dokkarit
+		- Tuntikirjanpito
+		- Product backlog
+			- Arkkitehtuuridokumentti
+			- Testausdokumentti
+			- Asennusohje
+			- Backlogit
+			
+		- Sprint backlog
+			- Ohjaaja / asiakas / vastuuhenkilö
+		- Dokkareiden pystyttäminen on tuntikirjattavaa, ts. hommaan voi kuluttaa jopa aikaa ja tutustua työkaluihin
+		- Koodi githubiin / muuhun versionhallintaan
+
+	- Työkalut
+
+		- DoD
+			- User storeyilla oltava hyväksymäkriteerit
+			- Kattavat testit
+			- Hyvä ylläpidettävyys
+			- Automaattiset yksikkö- ja integraatiotestit
+			- Testikattavuus on oltavat
+
+		- CI vaadittu alusta asti, jenkins ? travis?
+
+		** Ei-pakolliset toivotut
+		
+			- Koodikatselmointia
+			- Hyvää jälkeä
+			- Fyysinen sprint backlog
+			- Valokuvia
+			
+		** Vertaisarviointi
+			- Kaikki vertaisarvioivat kaikkien toimintaa
+				- Paitsi ohjaajaa
+				
+	** Projektin työmäärä
+			- 18h / vko
