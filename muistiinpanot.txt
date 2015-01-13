@@ -1,12 +1,18 @@
 PROJEKTIN MÄÄRITTELYT
 	- Tapaamiset torstaisin
 		- Klo 10:00 @ CK110
-		
+
+  - Sprintin pituus 2vko
+	
 	- Irkkikanavana #tmc-langs
 		- Käytetään myös asiakaskommunikaatioon
 
   - Tuntikirjanpito
     https://docs.google.com/spreadsheets/d/1YvdoH0zuv5MewZkCeuN3h0QOByj76-O7abEX8bXMSGs/edit#gid=0
+
+  - Backlogit
+    - Trello
+      URL: https://trello.com/b/wqL9FXVK/tmc-langs 
 			
 	- Koodit githubiin
 			- Kaksi repositorya
@@ -23,7 +29,6 @@ Vaatimukset prosessilta / työmenetelmiltä
 
 	- OhtuScrummilla mennään
 		- Daily scrum
-			- Not gonna happen
 
 	- Rooleja:
 		- Scrum master
