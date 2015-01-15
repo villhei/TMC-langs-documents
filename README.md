@@ -16,6 +16,10 @@
   <li>
   <a href="https://trello.com/b/wqL9FXVK/tmc-langs">Backlog trellossa</a>
   </li>
+  <li>
+  <a href="https://docs.google.com/spreadsheets/d/1Ga8_0Eez9-wSf3TjEJ54gKMjkgdXX_cqdBU40NF9t-4/edit?usp=sharing">
+    Burndown Google docsissa
+  </a>
 </ul>
 
 <h3>Repositoryt</h3>
