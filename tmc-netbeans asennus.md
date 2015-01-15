@@ -4,4 +4,4 @@ TMC-netbeansin asennus menee [Developer setup](https://github.com/tmc-langs/tmc-
 
 ### SelectedTailoring
 
-Ohjeissa mainittu SelectedTailoring onnistuu tekemällä vain uusi tiedosto **SelectedTailoring.properties** ja lisäämällä sinne `defaultTailoring=fi.helsinki.cs.tmc.tailoring.DeveloperTailoring`
+Ohjeissa mainittu SelectedTailoring onnistuu tekemällä vain uusi tiedosto **SelectedTailoring.properties** *fi.helsinki.cs.tmc.tailoring* pakettiin jonka sisällöksi `defaultTailoring=fi.helsinki.cs.tmc.tailoring.DeveloperTailoring`
