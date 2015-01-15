@@ -23,9 +23,15 @@
   <li><a href="https://github.com/zzats/TMC-langs-documents">
     TMC-langs-documents
   </a></li>
-  <li>[TMC-langs](https://github.com/tmc-langs/tmc-langs)</li>
-  <li>[TMC-netbeans](https://github.com/tmc-langs/tmc-netbeans)</li>
-  <li>[TMC-server](https://github.com/tmc-langs/tmc-server)</li>
+  <li><a href="https://github.com/tmc-langs/tmc-langs">
+    TMC-langs
+  </a></li>
+  <li><a href="https://github.com/tmc-langs/tmc-netbeans">
+    TMC-netbeans
+  </a></li>
+  <li><a href="https://github.com/tmc-langs/tmc-server">
+    TMC-server
+  </a></li>
 </ul>
   
 <h2>Hyödyllisiä projektiresursseja</h2>
