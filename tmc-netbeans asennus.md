@@ -1,6 +1,6 @@
 ### Asennus
 
-TMC-netbeansin asennus menee [Developer setup](https://github.com/tmc-langs/tmc-netbeans) ohjeiden mukaan. Jos `Tools -> NetBeans Platforms` kohtaa ei löydy, voi **tmc-netbeans** projektin avata NetBeansiin jolloin `Tools -> NetBeans Platforms` ilmestyy josta voi ladatun NetBeansin lisätä NetBeans Platformeihin. NetBeansin pitäisi tunnistaa uusi ympäristö automaattiseti jos näin ei ole voi projektin asetusten `Libraries` kohdasta vaihtaa käytettävä NetBeans Platform. 
+TMC-netbeansin asennus menee suoraan [Developer setup](https://github.com/tmc-langs/tmc-netbeans) ohjeiden mukaan, päivitin niitä ohjeita pienellä vihjeellä. 
 
 ### SelectedTailoring
 
