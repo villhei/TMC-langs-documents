@@ -16,6 +16,10 @@
   <li>
   <a href="https://trello.com/b/wqL9FXVK/tmc-langs">Backlog trellossa</a>
   </li>
+  <li>
+  <a href="https://docs.google.com/spreadsheets/d/1Ga8_0Eez9-wSf3TjEJ54gKMjkgdXX_cqdBU40NF9t-4/edit?usp=sharing">
+    Burndown Google docsissa
+  </a>
 </ul>
 
 <h3>Repositoryt</h3>
@@ -23,7 +27,15 @@
   <li><a href="https://github.com/zzats/TMC-langs-documents">
     TMC-langs-documents
   </a></li>
-  <li>TMC-langs-xxxx</li>
+  <li><a href="https://github.com/tmc-langs/tmc-langs">
+    TMC-langs
+  </a></li>
+  <li><a href="https://github.com/tmc-langs/tmc-netbeans">
+    TMC-netbeans
+  </a></li>
+  <li><a href="https://github.com/tmc-langs/tmc-server">
+    TMC-server
+  </a></li>
 </ul>
   
 <h2>Hyödyllisiä projektiresursseja</h2>
